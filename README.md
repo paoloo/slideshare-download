@@ -1,2 +1,3 @@
-# slideshare-download
-Download Slidshare presentations
+# slideshare downloader
+Download Slidshare Presentations using xpath
+
