@@ -1,5 +1,6 @@
 # slideshare downloader
 Download Slidshare Presentations using xpath
 
-$ python slideshare.py URL
+### sintaxe:
+**$ python slideshare.py URL**
 
